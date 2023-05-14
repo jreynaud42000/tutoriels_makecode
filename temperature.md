@@ -5,7 +5,7 @@ Ce tutoriel a été créé par :
 
 jreynaud Corp.
 
-## Etape 1/1
+## Etape 1/2
 
 Nous voulons faire afficher la température quand le bouton A est pressé
 
@@ -18,5 +18,7 @@ basic.forever(function () {
 })
 ```
 
-## FELICITATIONS 
+## Etape 2/2
+
+FELICITATIONS 
 il fait chaud
