@@ -5,13 +5,14 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
+        "pxt-kitronik-stopbit": "github:kitronikltd/pxt-kitronik-stopbit#v1.1.2"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "Afficheur.md"
+        "Afficheur.md",
+        "feux.md"
     ],
     "testFiles": [
         "test.ts"
