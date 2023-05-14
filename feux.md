@@ -5,7 +5,7 @@ Ce tutoriel a été créé par : jreynaud Corp
 
 il a pour but de montrer le fonctionnement du kit feux de chez Kitronik_STOPbit
 
-## Etape 1/3
+## Etape 1
 
 ```blocks
 basic.forever(function () {
