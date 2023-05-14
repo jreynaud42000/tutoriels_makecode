@@ -26,7 +26,7 @@ input.onButtonPressed(Button.B, function () {
 ```
 ## Etape 3/3
 
-Enfin, faire en sorte que SI le le logo est touché, le mot "Hello" s'affiche.
+Enfin, faire en sorte que SI le le logo est touché, le texte "Hello!" s'affiche.
 
 ```blocks
 input.onLogoEvent(TouchButtonEvent.Pressed, function () {
