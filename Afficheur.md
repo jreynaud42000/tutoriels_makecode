@@ -6,6 +6,10 @@ Ce tutoriel a été créé par :
 
 jreynaud Corp.
 
+## @showdialog
+Ce tutoriel a pour but de montrer les différentes possibilités
+de l'Afficheur "matrice del" de la carte micro:bit
+
 ## Etape 1/3
 
 Nous voulons faire afficher un smiley happy quand le bouton A est pressé
