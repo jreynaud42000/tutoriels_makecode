@@ -2,13 +2,9 @@
 Savoir utiliser les différentes possibilités de la matrice del
 
 ## @showdialog
-Ce tutoriel a été créé par :
+Ce tutoriel a été créé par : jreynaud Corp
 
-jreynaud Corp.
-
-## @showdialog
-Ce tutoriel a pour but de montrer les différentes possibilités
-de l'Afficheur "matrice del" de la carte micro:bit
+il a pour but de montrer les différentes possibilités de l'Afficheur "matrice del" de la carte micro:bit
 
 ## Etape 1/3
 
