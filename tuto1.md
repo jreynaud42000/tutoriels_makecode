@@ -1,5 +1,5 @@
 # tuto1
-
+Faire en sorte que quand le bouton A est pressé alors afficher l'icone coeur pendant 2 sec
 ## etape 1
 ```blocks
 input.onButtonPressed(Button.A, function () {
