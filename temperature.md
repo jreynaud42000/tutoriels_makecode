@@ -1,5 +1,10 @@
 # temperature
 
+## @showdialog
+Ce tutoriel a été créé par :
+
+jreynaud Corp.
+
 ## Etape 1/1
 
 Nous voulons faire afficher la température quand le bouton A est pressé
