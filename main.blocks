@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="input_logo_event" id="yh40vdd+EfT4,r5O0_.," x="18" y="164"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_print_message" id="EY*osgchyUHGr]~9m2/a"><value name="text"><shadow type="text" id="$v3D8uu!GSV{RAd{I`PR"><field name="TEXT">Hello!</field></shadow></value></block></statement></block></xml>
